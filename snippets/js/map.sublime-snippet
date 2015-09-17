@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+map( ${1} => { ${2} });
+]]></content>
+    <tabTrigger>map</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: map</description>
+</snippet>
